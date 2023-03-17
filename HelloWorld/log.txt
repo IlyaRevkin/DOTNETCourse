@@ -1,0 +1,33 @@
+
+INSERT INTO TutorialAppSchema.Computer(
+                Motherboard,
+                HasWifi,
+                HasLTE,
+                ReleaseDate,
+                Price,
+                VideoCard
+            ) 
+            VALUES ('Z690','True','False','01-Mar-2023 04:52:37 PM','943.87','RTX 2060')
+
+            
+INSERT INTO TutorialAppSchema.Computer(
+                Motherboard,
+                HasWifi,
+                HasLTE,
+                ReleaseDate,
+                Price,
+                VideoCard
+            ) 
+            VALUES ('Z690','True','False','01-Mar-2023 05:02:53 PM','943.87','RTX 2060')
+
+
+INSERT INTO TutorialAppSchema.Computer(
+                Motherboard,
+                HasWifi,
+                HasLTE,
+                ReleaseDate,
+                Price,
+                VideoCard
+            ) 
+            VALUES ('Z690','True','False','01-Mar-2023 05:02:58 PM','943.87','RTX 2060')
+
